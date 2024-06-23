@@ -13,8 +13,9 @@ O projeto possui a seguinte estrutura de diretórios e arquivos:
 
 /pagina-de-login
 │
-├── index.html
-├── css
-│   └── style.css
-└── img
-    └── (in-progress-animate)
+
+<p>├── index.html<p/>
+<p>├── css</p>
+    <p>└── style.css</p>
+<p>└── img</p>
+    <p>└── (in-progress-animate)</p>
